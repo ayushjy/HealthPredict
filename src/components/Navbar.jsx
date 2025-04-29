@@ -12,12 +12,12 @@ const Navbar = () => {
         <ul className="nav-links">
           <li>
             {/* Know Your Symptom will open your Python ML app */}
-            <a href="http://localhost:4000/" target="_blank" rel="noopener noreferrer">
+            <a href="https://healthprebackend-3.onrender.com/" target="_blank" rel="noopener noreferrer">
              Check Symptom
             </a>
           </li>
           <li>
-            <a href="http://localhost:8501" target="_blank" rel="noopener noreferrer">
+            <a href="https://healthprebackend-4.onrender.com/" target="_blank" rel="noopener noreferrer">
               Know Your Disease
             </a>
           </li>
